@@ -1,0 +1,46 @@
+	President Age	Real Age
+Theodore Roosevelt 	42 years, 10 months, 19 days	42.885388127853886
+John Fitzgerald Kennedy 	43 years, 7 months, 23 days	43.64634703196347
+William Jefferson Clinton 	46 years, 5 months, 7 days	46.43584474885844
+Ulysses Simpson Grant 	46 years, 10 months, 11 days	46.86347031963471
+Barack Hussein Obama 	47 years, 5 months, 17 days	47.463242009132415
+Grover Cleveland (1st term) 	47 years, 11 months, 15 days	47.95776255707762
+Franklin Pierce 	48 years, 3 months, 10 days	48.27739726027397
+James Abram Garfield 	49 years, 3 months, 14 days	49.288356164383565
+James Knox Polk 	49 years, 4 months, 3 days	49.34155251141553
+Millard Fillmore 	50 years, 6 months, 3 days	50.50821917808219
+John Tyler 	51 years, 0 months, 9 days	51.02465753424657
+Calvin Coolidge 	51 years, 1 month, 0 days	51.083333333333336
+Franklin Delano Roosevelt 	51 years, 1 month, 5 days	51.09703196347032
+William Howard Taft 	51 years, 5 months, 18 days	51.465981735159815
+Chester Alan Arthur 	51 years, 11 months, 15 days	51.95776255707762
+Abraham Lincoln 	52 years, 0 months, 21 days	52.057534246575344
+James Earl Carter 	52 years, 3 months, 20 days	52.304794520547944
+William McKinley 	54 years, 1 month, 5 days	54.09703196347032
+Martin Van Buren 	54 years, 3 months, 0 days	54.25
+Rutherford Birchard Hayes 	54 years, 5 months, 1 day	54.419406392694064
+George Walker Bush 	54 years, 6 months, 15 days	54.54109589041096
+Herbert Clark Hoover 	54 years, 6 months, 23 days	54.56301369863014
+Lyndon Baines Johnson 	55 years, 2 months, 27 days	55.24063926940639
+Warren Gamaliel Harding 	55 years, 4 months, 3 days	55.34155251141553
+Benjamin Harrison 	55 years, 6 months, 13 days	55.535616438356165
+Grover Cleveland (2nd term) 	55 years, 11 months, 15 days	55.95776255707762
+Richard Milhous Nixon 	56 years, 0 months, 12 days	56.032876712328765
+Woodrow Wilson 	56 years, 2 months, 5 days	56.18036529680365
+Andrew Johnson 	56 years, 3 months, 18 days	56.29931506849315
+George Washington 	57 years, 2 months, 9 days	57.191324200913236
+John Quincy Adams 	57 years, 7 months, 22 days	57.64360730593607
+Thomas Jefferson 	57 years, 10 months, 20 days	57.88812785388128
+James Madison 	57 years, 11 months, 17 days	57.963242009132415
+James Monroe 	58 years, 10 months, 5 days	58.84703196347032
+Harry S Truman 	60 years, 11 months, 5 days	60.93036529680365
+Gerald Rudolph Ford 	61 years, 0 months, 22 days	61.06027397260274
+John Adams 	61 years, 4 months, 5 days	61.34703196347032
+Andrew Jackson 	61 years, 11 months, 18 days	61.965981735159815
+Dwight David Eisenhower 	62 years, 3 months, 7 days	62.26917808219178
+Zachary Taylor 	64 years, 3 months, 10 days	64.27739726027397
+George Herbert Walker Bush 	64 years, 6 months, 28 days	64.57671232876713
+James Buchanan 	65 years, 10 months, 10 days	65.8607305936073
+William Henry Harrison 	68 years, 0 months, 24 days	68.06575342465753
+Ronald Wilson Reagan 	69 years, 11 months, 11 days	69.94680365296804
+Donald John Trump 	70 years, 7 months, 7 days	70.60251141552511
